@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+On the way to become a Python developer.
+
+# [![The stack I'm learning](https://skillicons.dev/icons?i=python,postgresql,django,docker,)](https://skillicons.dev)
+
+# [![The stack I have experience in](https://skillicons.dev/icons?i=js,html,css,angular,typescript)](https://skillicons.dev)
+
 <!--
 **XQZmeSIR/XQZmeSIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
