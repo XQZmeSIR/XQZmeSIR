@@ -5,7 +5,7 @@ On the way to become a Python developer.
 
 
 # What I already know
-[![The stack I have experience in](https://skillicons.dev/icons?i=git,linux,bash,js,html,css,angular,typescript)](https://skillicons.dev)
+[![The stack I have experience in](https://skillicons.dev/icons?i=git,linux,bash)](https://skillicons.dev)
 
 # Had experience with
 [![The stack I have experience in](https://skillicons.dev/icons?i=html,css,js,angular,typescript)](https://skillicons.dev)
