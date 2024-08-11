@@ -5,13 +5,13 @@ On the way to become a Python developer.
 
 
 # What I already know
-[![The stack I have experience in](https://skillicons.dev/icons?i=git,linux,bash)](https://skillicons.dev)
+[![The stack I have experience in](https://skillicons.dev/icons?i=python,git,linux,bash,neovim)](https://skillicons.dev)
 
 # Had experience with
-[![The stack I have experience in](https://skillicons.dev/icons?i=html,css,js,angular,typescript)](https://skillicons.dev)
+[![The stack I have experience in](https://skillicons.dev/icons?i=html,css,js,angular,typescript,netlify,npm)](https://skillicons.dev)
 
 # Currently learning
-[![The stack I'm learning](https://skillicons.dev/icons?i=python,postgresql,django,docker,bootstrap,redis,celery)](https://skillicons.dev)
+[![The stack I'm learning](https://skillicons.dev/icons?i=python,postgresql,mysql,django,docker,bootstrap,redis,celery)](https://skillicons.dev)
 
 
 
