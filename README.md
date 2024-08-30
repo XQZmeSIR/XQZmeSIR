@@ -3,6 +3,7 @@
 
 
 
+
 # What I already know
 [![The stack I have experience in](https://skillicons.dev/icons?i=python,git,linux,bash,neovim)](https://skillicons.dev)
 
