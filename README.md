@@ -1,6 +1,5 @@
-## Hi there 👋
-
-On the way to become a Python developer.
+### ...because who you are becoming is the thing you are amounting to, in real time, every day.
+- Alex Hormozi
 
 
 
