@@ -1,16 +1,18 @@
-### ...because who you are becoming is the thing you are amounting to, in real time, every day.
-- Alex Hormozi
+> ...because who you are becoming is the thing you are amounting to, in real time, every day.
+> - Alex Hormozi
 
 
 
-
-# What I already know
+<br>
+## What I already know
 [![The stack I have experience in](https://skillicons.dev/icons?i=python,git,linux,bash,neovim)](https://skillicons.dev)
 
-# Had experience with
+<br>
+## Had experience with
 [![The stack I have experience in](https://skillicons.dev/icons?i=html,css,js,angular,typescript,netlify,npm)](https://skillicons.dev)
 
-# Currently learning
+<br>
+## Currently learning
 [![The stack I'm learning](https://skillicons.dev/icons?i=python,postgresql,mysql,django,docker,bootstrap,redis,nginx)](https://skillicons.dev)
 
 
