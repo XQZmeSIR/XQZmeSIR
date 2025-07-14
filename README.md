@@ -1,5 +1,5 @@
 ### about me:
-just a guy who's on his way to become a data analyst<br>
+just a guy who's on his way to become a senior data analyst<br>
 <br> 
 > ...because who you are becoming is the thing you are amounting to, in real time, every day. <br> 
 > - Alex Hormozi
